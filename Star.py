@@ -43,7 +43,7 @@ async def start_(client: Client, message: Message):
 💥 ʜɪɪ ɪ'ᴍ ᴀ ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ 🌷.\n\n📌 ᴍʏ ɴᴀᴍᴇ ɪs ᴍʏʀᴀ ᴄʜᴀᴛ ʙᴏᴛ 🌷 ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳 \n\n🌷 ɪ ᴀᴍ ᴀʀᴛɪғɪᴄɪᴀʟʟʏ ɪɴᴛᴇʟʟɪɢᴇɴᴛ 🌷\n\n /chatbot - [on|off] ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴏɴʟʏ ᴜsᴇ ᴀɴʏ ɢʀᴏᴜᴘ
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣❥︎ ✨0WN3R✨   » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/{OWNER_USERNAME})
+┣❥︎ 0WN3R ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/{OWNER_USERNAME})
 ┣❥︎ UPD47E5 ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/{UPDATES_CHANNEL})
 ┣❥︎ 5UPP0R7 ➪ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/{SUPPORT_GROUP})
 ┣❥︎ DΞVΞLФPΞЯ ➪ » [𝗦𝗧𝝙𝗥𝗪𝗢𝗥𝗟𝗗](https://t.me/TG_STARWORLD)
